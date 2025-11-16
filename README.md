@@ -24,12 +24,12 @@ The repository contains **screenshots** of the Power BI dashboard highlighting k
 
 **Example screenshot previews:**
 
-*Home 🏠* <img width="1426" height="798" alt="1" src="https://github.com/user-attachments/assets/120f8783-dcd0-4811-8c44-df066271a775" />
-*Overview*  <img width="1432" height="800" alt="2" src="https://github.com/user-attachments/assets/e5fce4cc-4335-4f61-a25f-771bb7f27cf3" />
-*Customers 👥*  <img width="1432" height="800" alt="7" src="https://github.com/user-attachments/assets/9e57fa16-df0e-4f11-b236-5f7e27f7ec7a" />
-*Restaurants 🍴* <img width="1434" height="807" alt="4" src="https://github.com/user-attachments/assets/d7a3463a-7a5a-4c3d-b774-c0bb33ea45e9" />
-*Delivery Partners* <img width="1430" height="803" alt="5" src="https://github.com/user-attachments/assets/32c47943-315d-4e90-9b63-9084446ae032" />  
-*Revenue*  <img width="1423" height="806" alt="6" src="https://github.com/user-attachments/assets/b2b752cb-5ad3-4099-b80a-93728983c869" />
+**Home 🏠** <img width="1426" height="798" alt="1" src="https://github.com/user-attachments/assets/120f8783-dcd0-4811-8c44-df066271a775" />
+**Overview**  <img width="1432" height="800" alt="2" src="https://github.com/user-attachments/assets/e5fce4cc-4335-4f61-a25f-771bb7f27cf3" />
+**Customers 👥**  <img width="1432" height="800" alt="7" src="https://github.com/user-attachments/assets/9e57fa16-df0e-4f11-b236-5f7e27f7ec7a" />
+**Restaurants 🍴** <img width="1434" height="807" alt="4" src="https://github.com/user-attachments/assets/d7a3463a-7a5a-4c3d-b774-c0bb33ea45e9" />
+**Delivery Partners** <img width="1430" height="803" alt="5" src="https://github.com/user-attachments/assets/32c47943-315d-4e90-9b63-9084446ae032" />  
+**Revenue**  <img width="1423" height="806" alt="6" src="https://github.com/user-attachments/assets/b2b752cb-5ad3-4099-b80a-93728983c869" />
 
 ---
 <!--
